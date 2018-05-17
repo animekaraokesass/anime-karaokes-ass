@@ -4,6 +4,8 @@
 
 ## Temporadas Disponibles
 
+> A continuación se listan las distintas temporadas ordenadas por año y temporada.
+
 ### Año 2018
 
 - Invierno
