@@ -10,8 +10,8 @@ Para mantenerte informado de nuevos karaokes ass y más visita el [facebook ofic
 
 ### Año 2018
 
-- Invierno
-- Primavera
+- [Invierno](https://github.com/KuroSensei/anime-karaokes-ass/tree/master/ass/2018/Invierno)
+- [Primavera](https://github.com/KuroSensei/anime-karaokes-ass/tree/master/ass/2018/Primavera)
 
 ### Año 2017 (En proceso)
 
