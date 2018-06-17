@@ -19,3 +19,6 @@ Para mantenerte informado de nuevos karaokes ass y más visita el [facebook ofic
 - Primavera
 - Verano
 - Otoño
+
+
+[![Licencia Creative Commons](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
