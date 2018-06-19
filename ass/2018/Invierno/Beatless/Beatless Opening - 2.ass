@@ -20,20 +20,39 @@ Style: Default - kanji,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:06.03,0:00:08.40,Default,,0,0,0,,{\k33}na{\k29}ni {\k18}ga {\k19}ni{\k32}se{\k38}mo{\k36}no {\k32}de
 Dialogue: 0,0:00:08.77,0:00:11.23,Default,,0,0,0,,{\k33}na{\k49}ni {\k24}ga {\k30}ho{\k37}n{\k33}mo{\k40}no
-Dialogue: 0,0:00:11.53,0:00:16.02,Default,,0,0,0,,{\k25}ho{\k58}n{\k20}tou {\k37}no {\k32}ko{\k36}to {\k13}wa {\k20}wa{\k45}ka{\k21}ra{\k41}na{\k18}i {\k16}ke{\k67}do
+Dialogue: 0,0:00:11.53,0:00:16.02,Default,,0,0,0,,{\k25}ho{\k58}n{\k20}to {\k37}no {\k32}ko{\k36}to {\k13}wa {\k20}wa{\k45}ka{\k21}ra{\k41}na{\k18}i {\k16}ke{\k67}do
 Dialogue: 0,0:00:17.04,0:00:22.16,Default,,0,0,0,,{\k34}ki{\k37}mi {\k30}ni {\k39}fu{\k36}re{\k32}ta{\k67}i {\k38}ki{\k55}mi {\k13}ma{\k36}mo{\k36}ri{\k30}ta{\k29}i
 Dialogue: 0,0:00:22.53,0:00:26.96,Default,,0,0,0,,{\k34}so{\k51}re {\k21}da{\k34}ke {\k38}de {\k34}ju{\k31}u{\k54}bu{\k15}n {\k53}da{\k19}ka{\k59}ra
-Dialogue: 0,0:00:27.07,0:00:29.05,Default,,0,0,0,,{\k48}(Catch {\k150}you)
-Dialogue: 0,0:00:28.09,0:00:32.63,Default,,0,0,0,,{\k32}ta{\k33}to{\k22}e{\k31}ba, {\k17}so{\k18}u {\k19}ki{\k19}mi {\k12}ga {\k15}u{\k17}so{\k35}tsu{\k40}ki {\k28}da{\k25}tta {\k22}to {\k26}shi{\k43}te
-Dialogue: 0,0:00:32.58,0:00:34.52,Default,,0,0,0,,{\k64}(Trust {\k130}you)
+Dialogue: 0,0:00:27.07,0:00:29.05,Default,,0,0,0,,{\k48}Catch {\k150}you
+Dialogue: 0,0:00:28.09,0:00:32.63,Default,,0,0,0,,{\k32}ta{\k33}to{\k22}e{\k31}ba {\k17}so{\k18}u {\k19}ki{\k19}mi {\k12}ga {\k15}u{\k17}so{\k35}tsu{\k40}ki {\k28}da{\k25}tta {\k22}to {\k26}shi{\k43}te
+Dialogue: 0,0:00:32.58,0:00:34.52,Default,,0,0,0,,{\k64}Trust {\k130}you
 Dialogue: 0,0:00:33.50,0:00:37.56,Default,,0,0,0,,{\k44}se{\k16}ka{\k19}i {\k18}ma{\k18}ru{\k26}go{\k19}to {\k21}da{\k17}ma{\k16}so{\k16}u {\k19}to {\k38}shi{\k33}te{\k31}ru {\k21}na{\k34}ra
-Dialogue: 0,0:00:37.71,0:00:38.77,Default,,0,0,0,,{\k37}(Oh, {\k35}ba{\k34}by)
+Dialogue: 0,0:00:37.71,0:00:38.77,Default,,0,0,0,,{\k37}Ooh {\k35}ba{\k34}by
 Dialogue: 0,0:00:38.81,0:00:42.31,Default,,0,0,0,,{\k44}bo{\k18}ku {\k27}mo {\k46}se{\k33}ka{\k35}i {\k16}wo {\k39}u{\k30}ra{\k16}gi{\k46}rou
 Dialogue: 0,0:00:42.55,0:00:47.55,Default,,0,0,0,,{\k34}ki{\k35}mi {\k36}to {\k34}i{\k103}ma{\k32} {\k34}a{\k39}yu{\k33}n{\k32}de{\k88}ru
-Dialogue: 0,0:00:48.09,0:00:53.52,Default,,0,0,0,,{\k30}ko{\k34}no {\k34}to{\k37}ki {\k67}wa {\k23}e{\k52}i{\k67}en {\k30}de{\k39}mo {\k28}na{\k43}i {\k29}ke{\k30}do
+Dialogue: 0,0:00:48.09,0:00:53.52,Default,,0,0,0,,{\k30}ko{\k34}no {\k34}to{\k37}ki {\k67}wa {\k23}e{\k52}i{\k67}en {\k30}de{\k39}wa{\k28}na{\k43}i {\k29}ke{\k30}do
 Dialogue: 0,0:00:53.61,0:00:59.77,Default,,0,0,0,,{\k31}bo{\k37}ku {\k19}ga {\k14}i{\k35}tsu{\k139}ka {\k29}ki{\k36}e{\k30}te {\k45}shi{\k60}ma{\k44}tta {\k14}to {\k15}shi{\k39}te{\k29}mo
 Dialogue: 0,0:01:00.17,0:01:04.53,Default,,0,0,0,,{\k17}ki{\k14}mi {\k67}no {\k37}ki{\k14}o{\k22}ku {\k101}de {\k21}i{\k16}tsu {\k66}ma{\k16}de {\k45}mo
 Dialogue: 0,0:01:04.63,0:01:09.76,Default,,0,0,0,,{\k32}bo{\k38}ku {\k37}ga {\k32}i{\k138}ma {\k36}ka{\k31}n{\k36}ji{\k35}te{\k98}ru
 Dialogue: 0,0:01:10.03,0:01:15.57,Default,,0,0,0,,{\k45}shi{\k37}a{\k22}wa{\k47}se {\k67}ga {\k25}ge{\k29}n{\k35}so{\k51}u {\k33}da {\k30}to {\k71}iu {\k38}na{\k24}ra
 Dialogue: 0,0:01:15.71,0:01:21.95,Default,,0,0,0,,{\k31}ho{\k29}n{\k37}to{\k37}u {\k88}no{\k44} {\k36}a{\k34}i {\k39}wa {\k31}do{\k76}ko {\k32}ni {\k35}a{\k32}ru {\k43}no?
-Dialogue: 0,0:01:22.20,0:01:28.41,Default,,0,0,0,,{\k17}bo{\k17}ku {\k37}no{\k33} {\k37}o{\k19}mo{\k17}i {\k66}wa{\k33} {\k22}ki{\k14}mi {\k33}e{\k34} {\k38}sou, {\k12}ta{\k21}shi{\k36}ka {\k31}ni {\k17}to{\k14}do{\k21}i{\k20}te{\k32}ru
+Dialogue: 0,0:01:22.20,0:01:28.41,Default,,0,0,0,,{\k17}bo{\k17}ku {\k37}no{\k33} {\k37}o{\k19}mo{\k17}i {\k66}wa{\k33} {\k22}ki{\k14}mi {\k33}e{\k34} {\k38}sou {\k12}ta{\k21}shi{\k36}ka {\k31}ni {\k17}to{\k14}do{\k21}i{\k20}te{\k32}ru
+Dialogue: 0,0:00:06.03,0:00:08.40,Default - kanji,,0,0,0,,{\k62}何{\k18}が{\k19}ニ{\k32}セ{\k38}モ{\k36}ノ{\k32}で
+Dialogue: 0,0:00:08.77,0:00:11.23,Default - kanji,,0,0,0,,{\k82}何{\k24}が{\k30}ホ{\k37}ン{\k33}モ{\k40}ノ？
+Dialogue: 0,0:00:11.53,0:00:16.02,Default - kanji,,0,0,0,,{\k25}ホ{\k58}ン{\k20}ト{\k37}の{\k32}こ{\k36}と{\k13}は{\k20}わ{\k45}か{\k21}ら{\k41}な{\k18}い{\k16}け{\k67}ど
+Dialogue: 0,0:00:17.04,0:00:22.16,Default - kanji,,0,0,0,,{\k34}キ{\k37}ミ{\k30}に{\k39}ふ{\k36}れ{\k32}た{\k67}い　{\k38}キ{\k55}ミ{\k49}守{\k36}り{\k30}た{\k29}い
+Dialogue: 0,0:00:22.53,0:00:26.96,Default - kanji,,0,0,0,,{\k34}そ{\k51}れ{\k21}だ{\k34}け{\k38}で{\k65}十{\k69}分{\k53}だ{\k19}か{\k59}ら
+Dialogue: 0,0:00:27.07,0:00:29.05,Default - kanji,,0,0,0,,{\k48}Catch {\k150}you
+Dialogue: 0,0:00:28.09,0:00:32.63,Default - kanji,,0,0,0,,{\k65}例{\k22}え{\k31}ば{\k17}そ{\k18}う　{\k19}キ{\k19}ミ{\k12}が{\k32}嘘{\k35}つ{\k40}き{\k28}だ{\k25}った{\k22}と{\k26}し{\k43}て
+Dialogue: 0,0:00:32.58,0:00:34.52,Default - kanji,,0,0,0,,{\k64}Trust {\k130}you
+Dialogue: 0,0:00:33.50,0:00:37.56,Default - kanji,,0,0,0,,{\k44}世{\k35}界{\k18}ま{\k18}る{\k26}ご{\k19}と　{\k38}騙{\k16}そ{\k16}う{\k19}と{\k38}し{\k33}て{\k31}る{\k21}な{\k34}ら
+Dialogue: 0,0:00:37.71,0:00:38.77,Default - kanji,,0,0,0,,{\k37}Ooh {\k35}ba{\k34}by
+Dialogue: 0,0:00:38.81,0:00:42.31,Default - kanji,,0,0,0,,{\k44}ボ{\k18}ク{\k27}も{\k46}世{\k68}界{\k16}を{\k69}裏{\k16}切{\k46}ろう
+Dialogue: 0,0:00:42.55,0:00:47.55,Default - kanji,,0,0,0,,{\k34}キ{\k35}ミ{\k36}と{\k137}今{\k32}　{\k73}歩{\k33}ん{\k32}で{\k88}る
+Dialogue: 0,0:00:48.09,0:00:53.52,Default - kanji,,0,0,0,,{\k30}こ{\k34}の{\k34}時{\k37}間{\k67}は{\k75}永{\k67}遠{\k30}で{\k39}は{\k28}な{\k43}い{\k29}け{\k30}ど
+Dialogue: 0,0:00:53.61,0:00:59.77,Default - kanji,,0,0,0,,{\k31}ボ{\k37}ク{\k19}が{\k14}い{\k35}つ{\k139}か　{\k29}消{\k36}え{\k30}て{\k45}し{\k60}ま{\k44}った{\k14}と{\k15}し{\k39}て{\k29}も
+Dialogue: 0,0:01:00.17,0:01:04.53,Default - kanji,,0,0,0,,{\k17}キ{\k14}ミ{\k67}の{\k37}き{\k14}お{\k22}く{\k101}で{\k21}い{\k16}つ{\k66}ま{\k16}で{\k45}も
+Dialogue: 0,0:01:04.63,0:01:09.76,Default - kanji,,0,0,0,,{\k32}ボ{\k38}ク{\k37}が{\k170}今{\k67}感{\k36}じ{\k35}て{\k98}る
+Dialogue: 0,0:01:10.03,0:01:15.57,Default - kanji,,0,0,0,,{\k104}幸{\k47}せ{\k67}が{\k54}幻{\k86}想{\k33}だ{\k30}と{\k71}いう{\k38}な{\k24}ら
+Dialogue: 0,0:01:15.71,0:01:21.95,Default - kanji,,0,0,0,,{\k60}本{\k74}当{\k88}の{\k44}{\k70}愛{\k39}は{\k31}ど{\k76}こ{\k32}に{\k35}あ{\k32}る{\k43}の？
+Dialogue: 0,0:01:22.20,0:01:28.41,Default - kanji,,0,0,0,,{\k17}ボ{\k17}ク{\k37}の{\k33}{\k56}想{\k17}い{\k66}は{\k33}{\k22}キ{\k14}ミ{\k33}へ　{\k34}{\k38}そう{\k33}確{\k36}か{\k31}に{\k31}届{\k21}い{\k20}て{\k32}る
