@@ -16,10 +16,10 @@ Para mantenerte informado de nuevos karaokes ass y más visita el [facebook ofic
 
 ### Año 2017 (En proceso)
 
-- Invierno
-- Primavera
-- Verano
-- Otoño
+- [Invierno](https://github.com/KuroSensei/anime-karaokes-ass/tree/master/ass/2017/invierno)
+- [Primavera](https://github.com/KuroSensei/anime-karaokes-ass/tree/master/ass/2017/primavera)
+- [Verano](https://github.com/KuroSensei/anime-karaokes-ass/tree/master/ass/2017/Verano)
+- [Otoño](https://github.com/KuroSensei/anime-karaokes-ass/tree/master/ass/2017/oto%C3%B1o)
 
 
 [![Licencia Creative Commons](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
