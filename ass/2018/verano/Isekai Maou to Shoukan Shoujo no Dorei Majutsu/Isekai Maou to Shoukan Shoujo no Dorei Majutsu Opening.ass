@@ -21,40 +21,40 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:13.95,0:00:18.33,Default,,0,0,0,,{\k27}fu{\k26}sa{\k29}ga{\k35}re{\k35}ta {\k30}ka{\k20}ko {\k15}ka{\k46}ra {\k20}nu{\k29}ke{\k32}da{\k35}shi{\k59}te
 Dialogue: 0,0:00:18.56,0:00:23.59,Default,,0,0,0,,{\k37}tsu{\k35}gi {\k16}no {\k28}ba{\k32}sho {\k88}he {\k34}o{\k17}mo{\k18}i {\k24}ha{\k29}shi{\k28}ra{\k29}se{\k88}ru
 Dialogue: 0,0:00:24.60,0:00:29.18,Default,,0,0,0,,{\k28}ta{\k26}do{\k25}ri {\k37}tsu{\k33}ku {\k27}ba{\k26}sho {\k17}na{\k44}n{\k18}te{\k34}na{\k33}ku{\k28}te {\k82}mo
-Dialogue: 0,0:00:29.29,0:00:34.90,Default,,0,0,0,,{\k31}ko{\k32}no {\k15}na{\k37}mi{\k23}da {\k60}ga {\k22}ho{\k43}shi {\k31}ni {\k68}na{\k63}ru {\k31}hi {\k24}ma{\k81}de
+Dialogue: 0,0:00:29.29,0:00:34.90,Default,,0,0,0,,{\k15}kyo{\k16}u {\k32}no {\k15}na{\k37}mi{\k23}da {\k60}ga {\k22}ho{\k43}shi {\k31}ni {\k68}na{\k63}ru {\k31}hi {\k24}ma{\k81}de
 Dialogue: 0,0:00:34.97,0:00:37.18,Default,,0,0,0,,{\k47}(sun{\k174}da)
 Dialogue: 0,0:00:35.77,0:00:37.72,Default,,0,0,0,,{\k20}ki{\k15}mi {\k27}wa {\k17}bo{\k21}ku {\k20}no {\k29}yo{\k46}u
 Dialogue: 0,0:00:37.59,0:00:39.91,Default,,0,0,0,,{\k48}(Zu{\k184}tto)
 Dialogue: 0,0:00:38.39,0:00:40.33,Default,,0,0,0,,{\k20}bo{\k19}ku {\k28}wa {\k21}ki{\k16}mi {\k17}no {\k30}yo{\k43}u
 Dialogue: 0,0:00:40.20,0:00:47.04,Default,,0,0,0,,{\k126}chii{\k65}sa{\k33}na {\k18}i{\k41}no{\k38}chi {\k60}ga {\k23}ki{\k53}ko{\k28}e{\k41}te{\k14}i{\k144}ru
-Dialogue: 0,0:00:40.54,0:00:45.52,Default,,0,0,0,,{\k23}chi{\k15}ga{\k15}u {\k21}no{\k15} ni {\k33}o{\k32}na{\k51}ji {\k33}se{\k32}na{\k21}ka {\k34}a{\k27}wa{\k39}se{\k32}ta {\k75}me
-Dialogue: 0,0:00:45.85,0:00:53.82,Default,,0,0,0,,{\k15}ka{\k18}ku{\k17}se{\k24}i {\k15}no {\k31}ha{\k41}te {\k50}ni {\k22}ke{\k64}tsu{\k44}i {\k34}ka{\k66}ka{\k63}ge{\k293}you
+Dialogue: 0,0:00:40.54,0:00:45.52,Default,,0,0,0,,{\k23}chi{\k15}ga{\k15}u {\k21}no{\k15} ni {\k33}o{\k32}na{\k51}ji {\k33}se{\k32}na{\k21}ka {\k34}a{\k27}wa{\k39}se{\k32}ta {\k75}ne
+Dialogue: 0,0:00:45.85,0:00:53.82,Default,,0,0,0,,{\k15}ka{\k18}ku{\k17}se{\k24}i {\k15}no {\k31}ha{\k41}te {\k50}ni {\k22}ke{\k64}tsu{\k44}i {\k34}ka{\k66}ga{\k63}ya{\k293}ke
 Dialogue: 0,0:00:47.09,0:00:47.86,Default,,0,0,0,,{\k33}(i{\k44}ma)
-Dialogue: 0,0:00:50.96,0:00:54.89,Default,,0,0,0,,{\k43}(shu{\k52}ku{\k36}se{\k47}n {\k41}ni {\k174}wa)
+Dialogue: 0,0:00:50.96,0:00:54.89,Default,,0,0,0,,{\k45}This {\k43}is {\k39}a {\k52}brand {\k47}new {\k167}world!
 Dialogue: 0,0:00:55.06,0:00:56.26,Default,,0,0,0,,{\k19}ma{\k18}ke{\k29}ta{\k23}ku{\k18}na{\k13}i
 Dialogue: 0,0:00:56.29,0:01:00.73,Default,,0,0,0,,{\k24}ni{\k20}ge{\k31}ta{\k21}ku{\k16}na{\k68}i {\k12}fu{\k23}ka{\k31}nou {\k16}na{\k27}n{\k23}te {\k49}shin{\k14}ji{\k42}na{\k27}i
 Dialogue: 0,0:01:01.01,0:01:05.72,Default,,0,0,0,,{\k29}u{\k28}ba{\k48}i {\k35}u{\k21}ba{\k16}wa{\k46}re{\k20}ru {\k32}hi{\k19}bi {\k22}wa {\k17}i{\k25}ra{\k17}na{\k96}i
-Dialogue: 0,0:01:05.78,0:01:06.71,Default,,0,0,0,,{\k12}yu{\k19}me {\k27}wo {\k18}mit{\k6}e {\k11}yo
-Dialogue: 0,0:01:06.76,0:01:11.23,Default,,0,0,0,,{\k18}yu{\k27}me {\k16}ni {\k31}a{\k22}i{\k23}sa{\k61}re {\k15}a{\k20}ra{\k15}ta{\k16}na{\k18}ru {\k36}hi{\k19}ka{\k29}ri {\k11}ni {\k23}na{\k47}re
+Dialogue: 0,0:01:05.78,0:01:06.71,Default,,0,0,0,,{\k12}yu{\k19}me {\k27}wo {\k18}mi{\k17}te
+Dialogue: 0,0:01:06.76,0:01:11.23,Default,,0,0,0,,{\k18}yu{\k27}me {\k16}ni {\k31}a{\k22}i{\k23}sa{\k61}re {\k15}a{\k20}ra{\k15}ta{\k16}na{\k18}ru {\k36}hi{\k19}ka{\k29}ri {\k11}ni {\k23}na{\k47}ru
 Dialogue: 0,0:01:11.54,0:01:16.81,Default,,0,0,0,,{\k18}ya{\k38}sa{\k31}shi {\k20}sa {\k18}da{\k15}ke {\k17}ja {\k17}da{\k16}re {\k37}mo {\k13}ma{\k19}mo{\k45}re{\k19}na{\k13}i {\k102}na{\k21}ra{\k68}ba
 Dialogue: 0,0:01:17.09,0:01:22.92,Default,,0,0,0,,{\k33}hon{\k18}tou {\k54}no {\k23}tsu{\k17}yo{\k21}sa {\k34}wo {\k12}shi{\k22}ri{\k29}ta{\k21}i {\k17}ka{\k282}ra
 Dialogue: 0,0:00:13.95,0:00:18.33,Default - kanji,,0,0,0,,{\k53}塞{\k29}が{\k35}れ{\k35}た{\k30}過{\k20}去{\k15}か{\k46}ら{\k20}抜{\k29}け{\k32}出{\k35}し{\k59}て
 Dialogue: 0,0:00:18.56,0:00:23.59,Default - kanji,,0,0,0,,{\k72}次{\k16}の{\k28}場{\k32}所{\k88}へ{\k51}想{\k18}い{\k53}走{\k28}ら{\k29}せ{\k88}る
 Dialogue: 0,0:00:24.60,0:00:29.18,Default - kanji,,0,0,0,,{\k28}た{\k26}ど{\k25}り{\k37}着{\k33}く{\k27}場{\k26}所{\k17}な{\k44}ん{\k18}て{\k34}な{\k33}く{\k28}て{\k82}も
-Dialogue: 0,0:00:29.29,0:00:34.90,Default - kanji,,0,0,0,,{\k31}こ{\k32}の{\k75}涙{\k60}が{\k65}星{\k31}に{\k68}な{\k63}る{\k31}日{\k24}ま{\k81}で
+Dialogue: 0,0:00:29.29,0:00:34.90,Default - kanji,,0,0,0,,{\k15}今{\k16}日{\k32}の{\k75}涙{\k60}が{\k65}星{\k31}に{\k68}な{\k63}る{\k31}日{\k24}ま{\k81}で
 Dialogue: 0,0:00:34.97,0:00:37.18,Default - kanji,,0,0,0,,{\k47}(すん{\k174}だ)
 Dialogue: 0,0:00:35.77,0:00:37.72,Default - kanji,,0,0,0,,{\k20}キ{\k15}ミ{\k27}は{\k38}僕{\k20}の{\k29}よ{\k46}う
 Dialogue: 0,0:00:37.59,0:00:39.91,Default - kanji,,0,0,0,,{\k48}(ず{\k184}っと)
 Dialogue: 0,0:00:38.39,0:00:40.33,Default - kanji,,0,0,0,,{\k39}僕{\k28}は{\k21}キ{\k16}ミ{\k17}の{\k30}よ{\k43}う
 Dialogue: 0,0:00:40.20,0:00:47.04,Default - kanji,,0,0,0,,{\k126}(小{\k65}さ{\k33}な{\k97}命{\k60}が{\k76}燃{\k28}え{\k41}て{\k14}い{\k144}る)
 Dialogue: 0,0:00:40.54,0:00:45.52,Default - kanji,,0,0,0,,{\k38}違{\k15}う{\k21}の{\k15}に{\k65}同{\k51}じ　{\k33}背{\k53}中{\k34}合{\k27}わ{\k39}せ{\k32}た{\k75}目
-Dialogue: 0,0:00:45.85,0:00:53.82,Default - kanji,,0,0,0,,{\k33}覚{\k41}醒{\k15}の{\k31}果{\k41}て{\k50}に{\k22}(今)　決{\k108}意{\k100}掲{\k63}げ{\k293}よう
+Dialogue: 0,0:00:45.85,0:00:53.82,Default - kanji,,0,0,0,,{\k33}覚{\k41}醒{\k15}の{\k31}果{\k41}て{\k50}に{\k22}　決{\k108}意{\k100}輝{\k356}け
 Dialogue: 0,0:00:47.09,0:00:47.86,Default - kanji,,0,0,0,,{\k33}({\k44}今)
-Dialogue: 0,0:00:50.96,0:00:54.89,Default - kanji,,0,0,0,,{\k95}(宿{\k83}戦{\k41}に{\k174}は)
+Dialogue: 0,0:00:50.96,0:00:54.89,Default - kanji,,0,0,0,,{\k45}This {\k43}is {\k39}a {\k52}brand {\k47}new {\k167}world!
 Dialogue: 0,0:00:55.06,0:00:56.26,Default - kanji,,0,0,0,,{\k19}負{\k18}け{\k29}た{\k23}く{\k18}な{\k13}い
 Dialogue: 0,0:00:56.29,0:01:00.73,Default - kanji,,0,0,0,,{\k24}逃{\k20}げ{\k31}た{\k21}く{\k16}な{\k68}い　{\k12}不{\k23}可{\k31}能{\k16}な{\k27}ん{\k23}て{\k49}信{\k14}じ{\k42}な{\k27}い
 Dialogue: 0,0:01:01.01,0:01:05.72,Default - kanji,,0,0,0,,{\k57}奪{\k48}い{\k56}奪{\k16}わ{\k46}れ{\k20}る{\k32}日{\k19}々{\k22}は{\k17}い{\k25}ら{\k17}な{\k96}い
-Dialogue: 0,0:01:05.78,0:01:06.71,Default - kanji,,0,0,0,,{\k31}夢{\k27}を{\k18}見{\k6}て{\k11}よ
-Dialogue: 0,0:01:06.76,0:01:11.23,Default - kanji,,0,0,0,,{\k45}夢{\k16}に{\k53}愛{\k23}さ{\k61}れ　{\k35}新{\k15}た{\k16}な{\k18}る{\k84}光{\k11}に{\k23}な{\k47}れ
+Dialogue: 0,0:01:05.78,0:01:06.71,Default - kanji,,0,0,0,,{\k31}夢{\k27}を{\k18}見{\k17}て
+Dialogue: 0,0:01:06.76,0:01:11.23,Default - kanji,,0,0,0,,{\k45}夢{\k16}に{\k53}愛{\k23}さ{\k61}れ　{\k35}新{\k15}た{\k16}な{\k18}る{\k84}光{\k11}に{\k23}な{\k47}る
 Dialogue: 0,0:01:11.54,0:01:16.81,Default - kanji,,0,0,0,,{\k56}優{\k31}し{\k20}さ{\k18}だ{\k15}け{\k17}じゃ{\k33}誰{\k37}も{\k32}守{\k45}れ{\k19}な{\k13}い{\k102}な{\k21}ら{\k68}ば
 Dialogue: 0,0:01:17.09,0:01:22.92,Default - kanji,,0,0,0,,{\k33}本{\k18}当{\k54}の{\k40}強{\k21}さ{\k34}を{\k12}知{\k22}り{\k29}た{\k21}い{\k17}か{\k282}ら
