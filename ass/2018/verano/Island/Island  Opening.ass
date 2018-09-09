@@ -10,6 +10,9 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
+Video Zoom Percent: 0.250000
+Active Line: 19
+Video Position: 177
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -18,7 +21,7 @@ Style: Default - kanji,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.38,0:00:13.53,Default,,0,0,0,,{\k35}“so{\k22}me{\k16}re{\k12}na{\k24}i{\k149}de” {\k11}fu{\k11}i {\k41}ni {\k24}ki{\k27}ko{\k42}e{\k35}tan {\k166}da
+Dialogue: 0,0:00:07.38,0:00:13.53,Default,,0,0,0,,{\k35}“so{\k22}re {\k16}wa {\k36}na{\k115}ze?”{\k34} {\k11}fu{\k11}i {\k41}ni {\k24}ki{\k27}ko{\k42}e{\k35}tan {\k166}da
 Dialogue: 0,0:00:15.14,0:00:20.91,Default,,0,0,0,,{\k31}shin {\k24}no {\k14}ka{\k33}ze {\k97}ga{\k48} {\k13}tsu{\k13}tsu{\k20}mi{\k13}ko{\k34}mi{\k26}da{\k34}shi{\k30}ta {\k147}shi
 Dialogue: 0,0:00:22.84,0:00:28.60,Default,,0,0,0,,{\k28}sa{\k23}za{\k21}na{\k24}mi {\k151}ga {\k13}ke{\k11}shi{\k18}te {\k21}shi{\k28}ma{\k22}i{\k42}so{\k34}u {\k140}na
 Dialogue: 0,0:00:29.58,0:00:36.28,Default,,0,0,0,,{\k28}a{\k22}na{\k44}ta {\k29}no {\k16}a{\k55}shi{\k24}a{\k26}to {\k40}wo {\k27}zu{\k25}t{\k26}to {\k26}sa{\k18}ga{\k21}shi{\k14}te{\k88}ta {\k141}yo
@@ -28,7 +31,7 @@ Dialogue: 0,0:00:53.32,0:01:00.32,Default,,0,0,0,,{\k46}na{\k28}tsu {\k26}no {\k
 Dialogue: 0,0:01:00.98,0:01:07.74,Default,,0,0,0,,{\k44}do{\k34}ko {\k22}ni {\k43}i{\k31}te{\k142}mo {\k48}wa{\k12}ta{\k60}shi {\k24}da{\k25}ke {\k21}wo {\k43}mi{\k52}tsu{\k26}ke{\k49}te
 Dialogue: 0,0:01:08.73,0:01:15.73,Default,,0,0,0,,{\k39}ha{\k27}na{\k27}re{\k42}ta{\k27}ku{\k26}na{\k128}i{\k41} {\k26}fu{\k35}ta{\k35}tsu {\k25}no {\k37}ko{\k33}ko{\k31}ro {\k121}ni
 Dialogue: 0,0:01:16.42,0:01:26.95,Default,,0,0,0,,{\k43}i{\k25}tsu {\k50}ma{\k49}de {\k185}mo {\k27}shi{\k54}n{\k17}ji{\k55}tsu {\k44}wa {\k49}so{\k49}u {\k44}yo, {\k29}hi{\k25}to{\k22}tsu {\k71}da{\k20}ka{\k195}ra
-Dialogue: 0,0:00:07.38,0:00:13.53,Default - kanji,,0,0,0,,{\k35}「染{\k22}め{\k16}れ{\k12}な{\k24}い{\k149}で」{\k11} 不{\k11}意{\k41}に{\k24}聞{\k27}こ{\k42}え{\k35}たん{\k166}だ
+Dialogue: 0,0:00:07.38,0:00:13.53,Default - kanji,,0,0,0,,{\k35}そ{\k22}れ{\k16}は{\k12}な{\k173}ぜ？{\k11} 不{\k11}意{\k41}に{\k24}聞{\k27}こ{\k42}え{\k35}たん{\k166}だ
 Dialogue: 0,0:00:15.14,0:00:20.91,Default - kanji,,0,0,0,,{\k31}真{\k24}の{\k47}風{\k97}が{\k48}{\k26}包{\k20}み{\k13}込{\k34}み{\k26}出{\k34}し{\k30}た{\k147}し
 Dialogue: 0,0:00:22.84,0:00:28.60,Default - kanji,,0,0,0,,{\k28}さ{\k23}ざ{\k21}な{\k24}み{\k151}が{\k13}消{\k11}し{\k18}て{\k21}し{\k28}ま{\k22}い{\k42}そ{\k34}う{\k140}な
 Dialogue: 0,0:00:29.58,0:00:36.28,Default - kanji,,0,0,0,,{\k28}あ{\k22}な{\k44}た{\k29}の{\k71}足{\k50}跡{\k40}を{\k27}ず{\k25}っ{\k26}と{\k44}探{\k21}し{\k14}て{\k88}た{\k141}よ
