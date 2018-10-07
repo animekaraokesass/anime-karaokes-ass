@@ -48,10 +48,6 @@ Para mantenerte informado de nuevos karaokes ass y más visita el [facebook ofic
 
 [ver karaokes .ass](https://github.com/KuroSensei/anime-karaokes-ass/tree/master/ass/2012)
 
-### 2012
-
-[ver karaokes .ass](https://github.com/KuroSensei/anime-karaokes-ass/tree/master/ass/2012)
-
 ### 2010
 
 [ver karaokes .ass](https://github.com/KuroSensei/anime-karaokes-ass/tree/master/ass/2010)
