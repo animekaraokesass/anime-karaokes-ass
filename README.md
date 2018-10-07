@@ -30,7 +30,7 @@ Para mantenerte informado de nuevos karaokes ass y más visita el [facebook ofic
 - [Otoño](https://github.com/KuroSensei/anime-karaokes-ass/tree/master/ass/2016/oto%C3%B1o)
 
 
-A partir de aquí en adelante los karaokes .ass no se encuentran organizados por su respectiva temporada.
+> A partir de aquí en adelante los karaokes .ass no se encuentran organizados por su respectiva temporada.
 
 ### 2015
 
