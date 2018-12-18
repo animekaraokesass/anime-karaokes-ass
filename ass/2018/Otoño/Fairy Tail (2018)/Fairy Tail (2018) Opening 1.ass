@@ -17,7 +17,7 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,133.
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.20,0:00:04.52,Default,,0,0,0,,{\k43}don{\k24}na {\k21}ni {\k46}too{\k46}ku {\k47}too{\k39}ku {\k26}ha{\k25}na{\k19}re{\k13}te {\k12}i{\k41}ta{\k30}tte
+Dialogue: 0,0:00:00.20,0:00:04.52,Default,,0,0,0,,{\k43}don{\k24}na {\k21}ni {\k46}too{\k46}ku {\k47}too{\k39}ku {\k26}ha{\k25}na{\k19}re{\k13}te {\k12}i{\k41}ta{\k30}tte 
 Dialogue: 0,0:00:04.68,0:00:07.23,Default,,0,0,0,,{\k46}shin{\k24}ji {\k21}tsu{\k48}zu{\k20}ke{\k10}te {\k16}i{\k44}re{\k26}ba
 Dialogue: 0,0:00:07.40,0:00:11.75,Default,,0,0,0,,{\k44}nee {\k23}ho{\k23}ra {\k33}na{\k13}i{\k37}te{\k32}na{\k23}i{\k44}de {\k11}ka{\k18}o {\k37}wo {\k27}a{\k42}ge{\k28}te
 Dialogue: 0,0:00:11.93,0:00:15.58,Default,,0,0,0,,{\k44}i{\k22}ssho {\k22}ni {\k14}ma{\k30}e {\k21}ni {\k29}su{\k42}su{\k30}mo{\k111}u
