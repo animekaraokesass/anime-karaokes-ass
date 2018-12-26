@@ -17,7 +17,7 @@ Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,133.
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:21.46,0:00:26.13,Default,,0,0,0,,{\k59}Chai{\k46}ned {\k39}un{\k35}to {\k60}me, {\k36}my {\k36}a{\k27}do{\k39}le{\k30}scent {\k60}dreams
+Dialogue: 0,0:00:21.46,0:00:26.13,Default,,0,0,0,,{\k59}Chai{\k46}ned {\k39}un{\k35}to {\k60}me, {\k36}my {\k36}a{\k27}do{\k39}le{\k30}scent {\k60}dreams 
 Dialogue: 0,0:00:27.47,0:00:32.08,Default,,0,0,0,,{\k68}Pu{\k125}lling, {\k106}drags {\k31}me {\k131}deep
 Dialogue: 0,0:00:32.76,0:00:35.22,Default,,0,0,0,,{\k39}All {\k29}my {\k32}bo{\k65}dy, {\k35}ex{\k46}posed
 Dialogue: 0,0:00:38.01,0:00:40.50,Default,,0,0,0,,{\k30}Mar{\k30}ked {\k44}up {\k64}by {\k34}your {\k20}sha{\k27}dows
