@@ -1,5 +1,7 @@
 # Anime karaokes ASS
 
+[![Licencia Creative Commons](https://img.shields.io/badge/License%20CC-by--nc--sa-red.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 > Librería de Karaokes ass de opening y ending de anime creada especialmente para trabajar efectos basados en aegisubs o como base para AE.
 
 Para mantenerte informado de nuevos karaokes ass y más visita el [facebook oficial](https://www.facebook.com/animekaraokelyrics/) del proyecto.
@@ -63,5 +65,3 @@ Para mantenerte informado de nuevos karaokes ass y más visita el [facebook ofic
 ### 2007
 
 [ver karaokes .ass](https://github.com/KuroSensei/anime-karaokes-ass/tree/master/ass/2007)
-
-[![Licencia Creative Commons](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
