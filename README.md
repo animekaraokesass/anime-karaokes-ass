@@ -64,5 +64,4 @@ Para mantenerte informado de nuevos karaokes ass y más visita el [facebook ofic
 
 [ver karaokes .ass](https://github.com/KuroSensei/anime-karaokes-ass/tree/master/ass/2007)
 
-
 [![Licencia Creative Commons](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
