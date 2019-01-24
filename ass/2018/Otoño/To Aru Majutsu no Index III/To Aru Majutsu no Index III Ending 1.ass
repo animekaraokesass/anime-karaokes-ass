@@ -18,7 +18,7 @@ Style: Default - Kanji,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.93,0:00:14.13,Default,,0,0,0,,{\k23}fu{\k29}to {\k37}shi{\k35}ta{\k40} {\k42}shu{\k52}n{\k39}ka{\k20}n {\k43}ni{\k41} {\k23}ki{\k48}mi {\k80}wa {\k20}i{\k24}na{\k24}i
+Dialogue: 0,0:00:07.93,0:00:14.13,Default,,0,0,0,,{\k23}fu{\k29}to {\k37}shi{\k35}ta{\k40} {\k42}shu{\k52}n{\k39}ka{\k20}n {\k43}ni{\k41} {\k23}ki{\k48}mi {\k80}wa {\k20}i{\k24}na{\k24}i 
 Dialogue: 0,0:00:14.74,0:00:20.81,Default,,0,0,0,,{\k21}ko{\k36}do{\k32}ku {\k44}ga{\k37} {\k44}mu{\k40}ne {\k27}no {\k39}o{\k37}ku{\k26} {\k21}hi{\k18}do{\k26}ku {\k42}ta{\k23}ta{\k94}ku
 Dialogue: 0,0:00:21.52,0:00:27.95,Default,,0,0,0,,{\k25}ta{\k36}me{\k21}i{\k55}ki {\k48}no{\k35} {\k19}yo{\k21}ru {\k40}wa{\k49} {\k35}ho{\k45}shi{\k37}ta{\k85}chi {\k24}mi{\k23}a{\k45}ge
 Dialogue: 0,0:00:28.35,0:00:33.09,Default,,0,0,0,,{\k20}ku{\k42}chi{\k25}bi{\k43}ru {\k55}wo{\k28} {\k23}ka{\k24}n{\k43}de{\k60} {\k41}i{\k27}no{\k43}ru
